@@ -5,3 +5,28 @@ h1, p {
     font-style: normal;
 }
 
+p {
+    margin-bottom: 1em;
+    line-height: 140%;
+}
+
+.sect1 {
+    border-style: dotted;
+    padding: 1em;
+}
+
+.sect2 {
+    border-style: dashed;
+    padding: 1em;
+}
+
+.sect3 {
+    border-style: double;
+    padding: 1em;
+    margin-top: 2em;
+}
+
+
+.sec1, .sect2, .sect3 {
+    margin-top: 1em;
+}
